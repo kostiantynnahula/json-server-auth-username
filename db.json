@@ -23,10 +23,70 @@
   },
   "users": [
     {
+      "id": 1,
+      "firstName": "kostya",
+      "lastName": "nagula",
+      "username": "kostyannagula",
+      "telUsername": "",
       "email": "kostyannagula@gmail.com",
       "password": "$2a$10$Hfseqbki0pdUVczoSiIunuq3dQQSRyOcbqm425dJdFPYznNieP2fu",
-      "username": "kostyannagula",
-      "id": 1
+      "role": "admin"
+    },
+    {
+      "id": 3,
+      "firstName": "Joe",
+      "lastName": "Rogan",
+      "username": "roggy",
+      "telUsername": "",
+      "email": "jrogan@gmail.com",
+      "password": "qweqweqwe",
+      "role": "admin"
+    },
+    {
+      "id": 7,
+      "firstName": "Roe",
+      "lastName": "Jogan",
+      "username": "joggy",
+      "telUsername": "",
+      "email": "rjogan@gmail.com",
+      "password": "rtyrtyrty",
+      "role": "user",
+      "canEdit": true,
+      "canDelete": false
+    },
+    {
+      "id": 15,
+      "firstName": "Goe",
+      "lastName": "Rojan",
+      "username": "rojjy",
+      "telUsername": "",
+      "email": "grojan@gmail.com",
+      "password": "uiouiouio",
+      "role": "user",
+      "canEdit": false,
+      "canDelete": false
+    },
+    {
+      "id": 4,
+      "firstName": "Noe",
+      "lastName": "Rogaj",
+      "username": "roggy",
+      "telUsername": "",
+      "email": "nrogaj@gmail.com",
+      "password": "asdasdasd",
+      "role": "admin"
+    },
+    {
+      "id": 21,
+      "firstName": "Jog",
+      "lastName": "Ronae",
+      "username": "ronny",
+      "telUsername": "",
+      "email": "jronae@gmail.com",
+      "password": "fghfghfgh",
+      "role": "user",
+      "canEdit": true,
+      "canDelete": false
     }
   ]
 }
